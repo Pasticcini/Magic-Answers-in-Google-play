@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HeadsOrTails</string>
+
+    <string name="navigation_drawner_open">Open navigation drawner</string>
+    <string name="navigation_drawner_close">Close navigation drawner</string>
+
+</resources>

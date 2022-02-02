@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_baseline_home_24"
+            android:title="Home" />
+
+        <item
+            android:id="@+id/nav_privacy"
+            android:icon="@drawable/ic_baseline_privacy_tip_24"
+            android:title="Privacy" />
+        <item
+            android:id="@+id/nav_shareus"
+            android:icon="@drawable/ic_baseline_share_24"
+            android:title="Share us" />
+        <item
+            android:id="@+id/nav_email"
+            android:icon="@drawable/ic_baseline_email_24"
+            android:title="Email" />
+
+        <item
+            android:id="@+id/nav_rateus"
+            android:icon="@drawable/ic_baseline_rate_review_24"
+            android:title="Rate us" />
+
+        <item
+            android:id="@+id/nav_plus"
+            android:icon="@drawable/ic_baseline_auto_awesome_24"
+            android:title="Version Plus" />
+    </group>
+
+
+</menu>
